@@ -1,32 +1,11 @@
 {
-  "name": "webextensions-examples",
-  "title": "WebExtensions Examples",
+  "name": "override-trello-bg-mozilla-extension",
+  "title": "Override Trello Board Background Images",
   "version": "1.0.0",
-  "description": "Example Firefox add-ons created using the WebExtensions API",
-  "devDependencies": {
-    "eslint": "^4.4.1"
-  },
+  "description": "Change background images of your trello boards LOCALLY to a flat color.",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mdn/webextensions-examples.git"
-  },
-  "scripts": {
-    "test": "eslint .",
-    "lint": "eslint ."
+    "url": "git+https://github.com/seanbud/override-trello-bg-mozilla-extension"
   },
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/mdn/webextensions-examples/issues"
-  },
-  "keywords": [
-    "webextensions",
-    "webextensions-apis",
-    "mdn",
-    "firefox",
-    "mozilla"
-  ],
-  "homepage": "https://developer.mozilla.org/Add-ons/WebExtensions/Examples",
-  "dependencies": {
-    "babel-eslint": "^7.2.3"
-  }
 }
